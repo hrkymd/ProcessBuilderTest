@@ -12,7 +12,7 @@ public class TMain {
         String pathOfPythonFile = ".src/cartPole.py";
         String pathOfPython = "ENTER_YOUR_PYTHON_PATH";
 
-        //観測できる個数
+        //観測できる状態数
         int observationSize = 4;
 
         //環境の作成

@@ -2,7 +2,6 @@ import scala.Tuple2;
 
 import java.io.*;
 import java.util.Arrays;
-import java.util.Random;
 
 public class TEnvironment {
     //状態数
@@ -70,7 +69,7 @@ public class TEnvironment {
     }
 
     /**
-     * 一行動実行
+     * 1行動実行
      * @param action
      * @return
      * @throws IOException
